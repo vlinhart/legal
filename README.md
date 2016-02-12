@@ -1,2 +1,1 @@
-# legal
-Roomstorm's Publicly Available Legal Docs
+This is an official repository of publicly available legal documents of Walksource, Inc. DBA Roomstorm.
