@@ -52,7 +52,16 @@ You are solely responsible for all software, videos, images, audio, data, inform
 You understand that the operation of the Service, including Your Content, may be unencrypted and involve (a) transmissions over various networks; (b) changes to conform and adapt to technical requirements of connecting networks or devices; and (c) transmission to Roomstorm’s third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to operate and maintain the Service. Accordingly, you acknowledge that you bear sole responsibility for adequate security, protection and backup of Your Content. Roomstorm will have no liability to you for any unauthorized access or use of any of Your Content, or any corruption, deletion, destruction or loss of any of Your Content.
 
 The failure of Roomstorm to exercise or enforce any right or provision of this TOS shall not be a waiver of that right. You acknowledge that this TOS is a contract between you and Roomstorm, even though it is electronic and is not physically signed by you and Roomstorm, and it governs your use of the Service and takes the place of any prior agreements between you and Roomstorm. If any provision of this TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of this TOS remain in full force and effect.
+
 Except if you are an Individual, Roomstorm reserves the right to use your name and/or company name as a reference for marketing or promotional purposes on Roomstorm’s website and in other communications with existing or potential Roomstorm customers. To decline providing Roomstorm with this right, you need to email support@roomstorm.com stating that you do not wish to be used as a reference.
+
+### 3.1 Roomstorm Affiliates' Terms of Use
+
+Roomstorm partners with multiple companies in order to provide The Service and in some cases your compliance with their terms of service may be needed. A comprehensive list of those companies and use cases is provided below:
+
+#### 3.1.1 EAN
+  
+When the inventory is provided by EAN (the name of the provider is stated on the confirmation), by accepting this TOS you also agree to accept the following terms: http://travel.ian.com/index.jsp?pageName=userAgreement&locale=en_US&cid=496984
 
 ## 4. External Content
 
